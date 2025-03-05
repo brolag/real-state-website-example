@@ -59,7 +59,7 @@ This project is designed to be developed using Vibe Coding with Cursor IDE. Vibe
 
 - [Next.js Documentation](https://nextjs.org/docs)
 - [Cursor IDE Documentation](https://cursor.sh/docs)
-- [Vibe Coding Guide](https://cursor.sh/docs/vibe-coding)
+- [Vibe Coding Guide](https://research.aimultiple.com/vibe-coding/)
 
 ## 🚀 Deployment
 
